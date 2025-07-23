@@ -13,6 +13,7 @@ It is a full-stack data analysis project suitable for portfolios and resumes.
 - ✅ Handled missing data, type conversions, and encoding
 - ✅ Built a logistic regression model (~80% accuracy)
 - ✅ Deployed a simple interactive dashboard using Streamlit
+- 📎Live Dashboard:https://abinash9012-customer-churn-eda-appstreamlit-app-rdpc89.streamlit.app/
 
 ---
 
